@@ -15,7 +15,7 @@ void bubble_sort(int* arr, int sz)
 		}
 	}
 }
-
+//firstchange
 int main()
 {
 	int arr[10] = { 5, 8, 6, 3, 9, 2, 1, 7 };
